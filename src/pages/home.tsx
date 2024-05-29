@@ -1,5 +1,4 @@
-import React from 'react'
-import Sessao1 from '../components/sessao1'
+import Sessao1 from '../components/sessao1/FormInicial'
 
 const Home = () => {
   return (
